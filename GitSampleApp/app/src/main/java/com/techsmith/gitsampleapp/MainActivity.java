@@ -12,6 +12,8 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+// first commiting to localver 12
+
 public class MainActivity extends AppCompatActivity {
     private EditText editTextt;
 
